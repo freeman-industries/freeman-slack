@@ -1,0 +1,25 @@
+{
+  "name": "freeman-slack",
+  "version": "1.0.0",
+  "description": "publish a message to multiple Slack channels/accounts simultaneously",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/freeman-industries/freeman-slack.git"
+  },
+  "keywords": [
+    "slack"
+  ],
+  "author": "freeman industries",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freeman-industries/freeman-slack/issues"
+  },
+  "homepage": "https://github.com/freeman-industries/freeman-slack#readme",
+  "dependencies": {
+    "slack-notify": "^0.1.6"
+  }
+}
