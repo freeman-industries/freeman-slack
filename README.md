@@ -1,4 +1,4 @@
-# freeman-slack
+# freeman-slack 🐸
 Publish messages to multiple Slack accounts &amp; channels simultaneously.
 
 # use case
