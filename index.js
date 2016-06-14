@@ -8,13 +8,13 @@ module.exports = function(product_name, slack_hooks){
         var info = Slack.extend({
             channel: account.channel,
             icon_emoji: account.info_emoji,
-            username: product_name
+            username: product_name + "(info)"
         });
 
         var bug = Slack.extend({
             channel: account.channel,
             icon_emoji: account.bug_emoji,
-            username: product_name
+            username: product_name + "(bug)"
         });
 
         slack_info.push(info);
