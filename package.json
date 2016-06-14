@@ -1,6 +1,6 @@
 {
   "name": "freeman-slack",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "publish a message to multiple Slack channels/accounts simultaneously",
   "main": "index.js",
   "scripts": {
